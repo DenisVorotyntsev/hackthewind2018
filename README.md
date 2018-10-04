@@ -1,5 +1,5 @@
 # hackthewind2018
-Presentation of '[Hack the Wind 2018](https://windeurope.org/summit2018/networking/hackathon/)' hackathon solution
+Presentation of [Hack the Wind 2018](https://windeurope.org/summit2018/networking/hackathon/) hackathon solution
 
 On September 25 to 27, during the Global Wind Summit, InnoEnergy and WindEurope hosted Hack the Wind 2018 – the second edition of the hugely successful Hack the Wind 2017 hackathon.Hack the Wind was dedicated to moving the wind energy industry forward and as such is inviting designers, developers, data scientists and analysts, blockchain developers, and wind energy experts to work with some of the biggest names in the industry to create solutions for the proposed challenges.
 
